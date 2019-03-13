@@ -1,4 +1,4 @@
-# Panduan Login dengan Slider 
+# Panduan Login dengan Slider iOS Apps Swift 4
 Aplikasi ini adalah mirroring dari https://www.letsbuildthatapp.com/course/Audible-Login-Walkthrough
 
 # Tampilan Aplikasi
